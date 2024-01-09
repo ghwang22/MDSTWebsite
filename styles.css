@@ -1,22 +1,39 @@
 
-
 head {
     font-size: 1.0rem; 
 }
 
-.nav {
-    list-style-type: none;
+nav {
+    padding-left: 1%;
     font-size: 20px; 
     color: black; 
-    text-align: center;
-    padding: 10px 14 px; 
-    text-decoration: none;
+    overflow: hidden; 
+    background-color:#CCAAE9; 
 }
+    
+nav a {
+    font-size: 20px; 
+    color: black; 
+    padding: 10px 14px; 
+    display: block;
+    float: left;
+    text-decoration: none;
+    text-align: center; 
+}
+    
+nav a:hover{
+    background-color: #FFC7F0;
+    transition: all 1s;
+}
+      
+nav a.active {
+    background-color: #FFC7F0;
+}
+
 
 body {
     background-color: #eddff6;
 }
-
 
 
 h1 {
