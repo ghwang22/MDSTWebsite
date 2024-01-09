@@ -4,9 +4,20 @@ head {
     font-size: 1.0rem; 
 }
 
+.nav {
+    list-style-type: none;
+    font-size: 20px; 
+    color: black; 
+    text-align: center;
+    padding: 10px 14 px; 
+    text-decoration: none;
+}
+
 body {
     background-color: #eddff6;
 }
+
+
 
 h1 {
     color: black;
