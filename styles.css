@@ -1,1 +1,24 @@
 
+
+head {
+    font-size: 1.0rem; 
+}
+
+body {
+    background-color: #eddff6;
+}
+
+h1 {
+    color: black;
+    text-align: left;
+    font-size: 1.4rem;
+}
+
+/* h2 {
+text-align: ;
+} */
+
+ul {
+color: black;
+}
+
