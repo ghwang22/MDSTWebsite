@@ -46,8 +46,9 @@ h1 h2{
     font-size: 1.4rem;
 }
 
-.p1 {
+.p1 .p2 {
     margin: 5px; 
+    line-height: 20px; 
 }
 
 
