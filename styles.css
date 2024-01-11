@@ -5,50 +5,61 @@ head {
 
 header {
     font-size: 25px; 
+    color: #f6f4f2;
+    padding: 10px 14px;
 }
 
 nav {
-    padding-left: 1%;
+    display: flex;
+    padding: 1%;
     font-size: 20px; 
-    color: black; 
     overflow: hidden; 
-    background-color:#CCAAE9; 
+    background-color:#4b5668; 
+    justify-content: wrap; 
 }
-    
+
 nav a {
     font-size: 20px; 
-    color: black; 
-    padding: 10px 14px; 
-    display: block;
-    float: left;
+    color: white; 
+    padding: 10px 14px;
     text-decoration: none;
-    text-align: center; 
+    margin: 5px; 
+    margin-right: auto;
 }
     
 nav a:hover{
-    background-color: #FFC7F0;
+    background-color: #f6f4f2;
+    color: black; 
     transition: all 1s;
 }
       
 nav a.active {
-    background-color: #FFC7F0;
+    background-color: #edaf87;
+    color: #ffffff;
 }
 
 
 body {
-    background-color: #eddff6;
+    background-color: #e0cfc2;
 }
 
 
-h1 h2{
+h1 {
     color: black;
     text-align: left;
     font-size: 1.4rem;
 }
 
-.p1 .p2 {
-    margin: 10px; 
-    line-height: 25px; 
+h2 {
+    color: black;
+    text-align: left;
+    font-size: 1.4rem;
+}
+
+
+p1{
+font-size: 1.1rem; 
+    line-height: 30px; 
 }
 
 
