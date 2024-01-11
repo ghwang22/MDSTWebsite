@@ -40,15 +40,12 @@ body {
 }
 
 
-h1 {
+h1 h2{
     color: black;
     text-align: left;
     font-size: 1.4rem;
 }
 
-/* h2 {
-text-align: ;
-} */
 
 ul {
 color: black;
