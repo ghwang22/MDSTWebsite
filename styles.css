@@ -64,7 +64,7 @@ h3 {
 
 
 p1{
-    font-size: 1.1rem; 
+    font-size: 20px; 
     line-height: 30px; 
     padding: 10px;
 }
@@ -73,7 +73,6 @@ p2 {
     font-size: 1.1rem; 
     line-height: 30px; 
 }
-
 
 ul {
 color: black;
